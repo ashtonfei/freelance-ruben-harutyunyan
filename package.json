@@ -1,0 +1,24 @@
+{
+  "name": "freelance-ruben-harutyunyan",
+  "version": "1.0.0",
+  "description": "freelance projects for Ruben Harutyunyan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonfei/freelance-ruben-harutyunyan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashtonfei/freelance-ruben-harutyunyan/issues"
+  },
+  "homepage": "https://github.com/ashtonfei/freelance-ruben-harutyunyan#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.20",
+    "clasp": "^1.0.0"
+  }
+}
